@@ -1,0 +1,38 @@
+[
+  {
+    "type": "book",
+    "title": "Vephkhistqaosani",
+    "author": "Shota Rustaveli",
+    "year": 1200
+  },
+  {
+    "type": "book",
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "year": 1595
+  },
+  {
+    "type": "book",
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "year": 1605
+  },
+  {
+    "type": "book",
+    "title": "Otarant Qvrivi",
+    "author": "Ilia Chavchavadze",
+    "year": 1887
+  },
+  {
+    "type": "book",
+    "title": "Me, Bebia, Iliko da Ilarioni",
+    "author": "Nodar Dumbadze",
+    "year": 1960
+  },
+  {
+    "type": "book",
+    "title": "Mglis Biliki",
+    "author": "Aleksandre Iasaghashvili",
+    "year": 1960
+  }
+]
